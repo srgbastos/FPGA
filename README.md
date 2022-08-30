@@ -1,7 +1,7 @@
 # FPGA
 Verilog and VHDL codes
 
-# primo_Nios
+## primo_Nios
 Microprocessor NIOS2 project with adaptations for the EP4CE6 device.  
 Revision Name	ut_primo_Nios  
 Top-level Entity Name	ut_primo_Nios  
