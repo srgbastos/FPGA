@@ -5,6 +5,7 @@ Verilog and VHDL codes
 Spiking Neural Network project with FPGA  
 Materials: FPGA DE1-SoC, Raspberry, Analisador Lógico CY7C68013A  
 
+![Sp_D](https://user-images.githubusercontent.com/75814665/187528797-ad38c31e-09b4-4eb5-8023-1cbb2adaf3a9.png)
 
 ## primo_Nios
 Microprocessor NIOS2 project with adaptations for the EP4CE6 device.  
